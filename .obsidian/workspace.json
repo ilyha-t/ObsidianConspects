@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "b25ef7fe6f019074",
+    "type": "split",
+    "children": [
+      {
+        "id": "d14a56346b58844f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "401080c23eb64764",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VanillaJS/Map, Set.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18a0e46d722f9b41",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce58a2d00758054a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfeb7c4edcdea5b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75ebda255a3a6236",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60546e7a16cb3b37",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b003dc6a18841793",
+    "type": "split",
+    "children": [
+      {
+        "id": "a449f31439c2b0e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d015aedc9d772839",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "VanillaJS/Map, Set.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae4225fbe5f4b9cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "VanillaJS/Map, Set.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b97677375a563d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b2cab30d99818240",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "VanillaJS/Map, Set.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "401080c23eb64764",
+  "lastOpenFiles": [
+    "TS + Redux/1. Начало работы.md",
+    "VanillaJS/Map, Set.md",
+    "VanillaJS",
+    "TS + Redux/3. TypedUseSelectorHook.md",
+    "TS + Redux/2. useAppDispatch().md",
+    "Методы массивов/sort() + localeCompare().md",
+    "Поддерживаемые языки для подсветки.md",
+    "Инструменты разработчика/Vite.md",
+    "Верстка/Grid.md",
+    "TS + Redux/хук useActions().md",
+    "TS + Redux/5. Получение данных, обработка ошибки и загрузки.md",
+    "Jest/1. Начало работы.md",
+    "RTK Query/4. Использование хуков RTK Query.md",
+    "RTK Query/3. Создание store.md",
+    "RTK Query/2. Начало работы.md",
+    "RTK Query/1. RTK Query.md",
+    "Images/SRP после.png",
+    "Images/SRP до.png",
+    "Images/form with ref.png",
+    "Images/controlled form.png",
+    "Типизирование формы 2.png"
+  ]
+}
